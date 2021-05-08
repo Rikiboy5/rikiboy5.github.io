@@ -1,0 +1,13 @@
+header .top-bar, header .top-bar ul {
+  background-color: #F2F2F2;
+}
+
+div.title-bar {
+  background-color: #bfbfbf;
+}
+
+p.byline {
+  display: none;
+}
+
+/*# sourceMappingURL=app.css.map */

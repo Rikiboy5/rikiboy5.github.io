@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Richard Gaál</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sat, 08 May 2021 11:19:21 +0000</lastBuildDate>
+	<language>sk-SK</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Ahoj svet!</title>
+		<link>/2021/05/08/ahoj-svet/</link>
+					<comments>/2021/05/08/ahoj-svet/#comments</comments>
+		
+		<dc:creator><![CDATA[rikiboy5]]></dc:creator>
+		<pubDate>Sat, 08 May 2021 11:19:21 +0000</pubDate>
+				<category><![CDATA[Nezaradené]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Vitajte vo WordPress. Toto je váš prvý článok. Upravte ho alebo zmažte a začnite písať!]]></description>
+										<content:encoded><![CDATA[
+<p>Vitajte vo WordPress. Toto je váš prvý článok. Upravte ho alebo zmažte a začnite písať!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/05/08/ahoj-svet/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
